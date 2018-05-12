@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42868'
     url: http://www.gutenberg.org/2009/agents/42868
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44679#Siam-Land-of-Free-Men
 gutenberg_issued: '2014-01-16'
 gutenberg_type: Text
 identifiers:
